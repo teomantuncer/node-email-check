@@ -1,0 +1,7 @@
+{
+  "name": "node-email-check",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-range": "^0.1.0"
+  }
+}
