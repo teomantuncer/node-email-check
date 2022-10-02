@@ -1,7 +1,15 @@
 {
   "name": "node-email-check",
   "version": "1.0.0",
+  "author": "Teoman Tuncer <teoman@tuncer.dev> (https://tuncer.dev)",
+  "description": "NodeJS Email Validator, Checker and MX Checker",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teomantuncer/node-email-check.git"
+  },
   "dependencies": {
     "node-range": "^0.1.0"
-  }
+  },
+  "license": "gpl-3.0"
 }
