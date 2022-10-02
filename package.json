@@ -1,6 +1,6 @@
 {
   "name": "node-email-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Teoman Tuncer <teoman@tuncer.dev> (https://tuncer.dev)",
   "description": "NodeJS Email Validator, Checker and MX Checker",
   "main": "main.js",
