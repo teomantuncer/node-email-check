@@ -67,6 +67,16 @@ async function validateMx (mail) {
 }
 
 module.exports = {
+	isValidSync: function (email) {
+		if (typeof(email) !== 'string') {
+			return false;
+		}
+		email = email.toLowerCase();
+		if (!validateRegex.test(email)) {
+			return false;
+		}
+		return !isBlacklisted(email);
+	},
 	isValid: async function (email){
 		if (typeof(email) !== 'string') {
 			return false;
