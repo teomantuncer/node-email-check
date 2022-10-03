@@ -1,6 +1,6 @@
 # node-email-check
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![npm package](https://img.shields.io/npm/v/node-email-check.svg)](https://www.npmjs.org/package/node-email-check) [![downloads](https://img.shields.io/npm/dt/node-email-check.svg)](https://www.npmjs.com/package/node-email-check) [![size](https://img.shields.io/bundlephobia/minzip/node-email-check)](https://www.npmjs.com/package/node-email-check)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![npm package](https://img.shields.io/npm/v/node-email-check.svg)](https://www.npmjs.org/package/node-email-check) [![downloads](https://img.shields.io/npm/dt/node-email-check.svg)](https://www.npmjs.com/package/node-email-check) [![size](https://img.shields.io/bundlephobia/minzip/node-email-check)](https://www.npmjs.com/package/node-email-check)  [![last-commit](https://img.shields.io/github/last-commit/teomantuncer/node-email-check)](https://github.com/teomantuncer/node-email-check) 
 
 NodeJS Email Validator, Checker and MX Checker
 
